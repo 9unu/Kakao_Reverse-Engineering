@@ -6,6 +6,7 @@
 ## 예시 데이터 셋
 
 ## 모델 배포 (허깅페이스)
-상냥체 : https://huggingface.co/9unu/formal_speech_translation
-정중체 : https://huggingface.co/9unu/gentle_speech_translation
+`상냥체`: https://huggingface.co/9unu/formal_speech_translation
+
+`정중체` : https://huggingface.co/9unu/gentle_speech_translation
 
