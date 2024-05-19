@@ -4,7 +4,7 @@
 ## 시연 영상
 
 ## 예시 데이터 셋
-![데이터셋 예시](https://github.com/9unu/Kakao_Reverse-Engineering/assets/124652096/db20cab5-6244-4933-ac36-9471eb70b66c)
+![데이터셋 예시](https://github.com/9unu/Kakao_Reverse-Engineering/assets/124652096/82cfa1e7-1ab3-4955-a8eb-914ffca60fbf)
 
 ## 모델 배포 (허깅페이스)
 `상냥체`: https://huggingface.co/9unu/formal_speech_translation
